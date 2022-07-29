@@ -1,0 +1,106 @@
+
+
+SDLC Methodologies:
+-------------------
+1.WaterFall Model
+2.V-Model Of Testing
+3.Iterative Model
+4.Agile Model
+
+
+1.Waterfall Model:
+------------------
+* Simple and easy to understand and use.
+* Each phase has specific deliverables and review processes.
+* Documentation and artifacts maintained properly.
+* Suitable for projects where requirements are well understood.
+
+Disadvatages:
+-------------
+* Not suitable for projects where requirements are at a risk of changing.
+* Cost of fixing defects is very high when detected at a later stage.
+* Not a good model for complex and long projects.
+
+
+2.V-Model:
+----------
+* The V-model is an SDLC model where execution of processes happens in a sequential manner in a V-shape. 
+* It is also known as Verification and Validation model.
+
+3.Iterative Model:
+----------------
+We are going to iterate each functionality in to each part and design,develop and test and deploy.
+
+
+4.Agile Model:
+--------------
+AGILE methodology is a practice that promotes continuous iteration of development and testing throughout the software development 
+lifecycle of the project. Here both development and testing activities are concurrent unlike the Waterfall model.
+
+
+Why we go for Agile?
+--------------------
+* More Control
+* Better Productivity
+* Better Quality
+* Higher Customer Satisfaction
+* Higher return on investment
+
+
+Agile Manifesto(Principles):
+---------------------------
+--> Individual and team interactions over processes and tools
+--> Working software over comprehensive documentation
+--> Customer collaboration over contract negotiation
+--> Responding to change over following a plan
+
+
+[Note: Framework we are following in Agile is Scrum.] 
+
+Agile:
+------
+1.Roles
+2.Artifacts/Documents
+3.Cermonies/Meeting
+
+
+Members/Role Players in Agile:
+------------------------------
+--> Product Owner:
+    --------------
+	Product Owner defines features of the product and decides release date.
+	Product Owner prioritize the features according to the market value and profitability of the product.
+	Product Owner can accept or reject work item result.
+
+--> Scrum Master:
+    -------------
+	Scrum Master manages the team and look after the team's productivity.
+	Scrum Master is responsible for setting up the team, scrum meeting invite and removes obstacles to progress.
+
+--> Scrum Team/Dev Team:
+    -------------------
+	The team is usually about 5-9 members.
+	The whole team involved in development and testing.
+	Team manages its own work and organizes the work to complete the sprint or cycle.
+	And attend the scrum meetings
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
